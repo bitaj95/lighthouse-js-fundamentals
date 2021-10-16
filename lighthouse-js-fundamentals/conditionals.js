@@ -1,4 +1,4 @@
-const temperature = 12;
+const temperature = 20;
 const raining = false;
 
 if (temperature < 0) {
